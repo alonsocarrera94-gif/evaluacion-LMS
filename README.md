@@ -160,9 +160,10 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 
 - Facilidad de administración: Canvas es la plataforma más sencilla de administrar porque funciona en la nube y se actualiza automáticamente. Moodle requiere más conocimientos técnicos para instalar, configurar y mantener. Aunque se puede personalizar mucho, esto puede ser un inconveniente. Blackboard es robusto y está diseñado para instituciones grandes, pero puede ser complicado de configurar y gestionar debido a todas sus funcionalidades.
 
-- Integración con herramientas externas: Moodle destaca por su flexibilidad e integración mediante plugins y estándares como LTI y SCORM. Blackboard ofrece integración con sistemas académicos y herramientas institucionales. Canvas sobresale por su conexión sencilla con aplicaciones como Google Workspace, Microsoft 365 y Zoom.
+- Integración con herramientas externas: Moodle destaca por su flexibilidad e integración mediante plugins y estándares como LTI y SCORM. Blackboard ofrece integración con sistemas académicos y herramientas institucionales y anvas sobresale por su conexión sencilla con aplicaciones como Google Workspace, Microsoft 365 y Zoom.
   
-- Ventajas y limitaciones: Moodle es gratuito. Es flexible y se puede personalizar. Pero necesita conocimientos técnicos. Blackboard tiene herramientas avanzadas. Ofrece soporte profesional. Pero tiene costos altos. También es más complicado. Canvas destaca por ser fácil de usar. Se implementa rápido. Pero tiene menos opciones de personalización. Algunas funciones solo están disponibles en ciertos planes.
+- Ventajas y limitaciones: Moodle es gratuito. Es flexible y se puede personalizar. Pero necesita conocimientos técnicos.
+  Blackboard tiene herramientas avanzadas. Ofrece soporte profesional. Pero tiene costos altos. También es más complicado y Canvas destaca por ser fácil de usar. Se implementa rápido. Pero tiene menos opciones de personalización. Algunas funciones solo están disponibles en ciertos planes.
 
 
 ---
