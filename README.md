@@ -175,7 +175,7 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 Evaluación del aprendizaje: Las tres plataformas permiten crear tareas, cuestionarios y rúbricas para evaluar a los estudiantes. Moodle es muy flexible y ofrece muchas opciones para evaluar. Blackboard tiene herramientas avanzadas para seguir el rendimiento de los estudiantes, generar informes y detectar plagio. Canvas hace que la evaluación sea más sencilla con herramientas como SpeedGrader. Esto facilita la calificación y la retroalimentación oportuna.
 
 Facilidad de administración: Canvas es la plataforma más sencilla de administrar porque funciona en la nube y se actualiza automáticamente. Moodle requiere más conocimientos técnicos para instalar, configurar y mantener. Aunque se puede personalizar mucho, esto puede ser un inconveniente. Blackboard es robusto y está diseñado para instituciones grandes, pero puede ser complicado de configurar y gestionar debido a todas sus funcionalidades.
-- 
+
 - Integración con herramientas externas
 - Ventajas y limitaciones
 
@@ -187,17 +187,16 @@ Escriba tres conclusiones relevantes.
 
 ### Conclusión 1
 
----
+Moodle continúa siendo la plataforma que promueve la educación virtual de manera inclusiva. Su habilidad para adaptarse no tiene comparación. Sin embargo, en un contexto educativo que valora la experiencia del usuario y la efectividad operativa, Moodle está quedando atrás. Las instituciones deben optar entre tener un control completo con una carga técnica elevada.
 
 ### Conclusión 2
 
----
 
 Canvas LMS es una plataforma de aprendizaje moderna. Lo que la hace destacar es que es fácil de usar y tiene una interfaz intuitiva. También se puede implementar rápidamente. Una de las cosas buenas de Canvas LMS es que se puede integrar con herramientas externas. Esto permite crear un entorno donde tanto los docentes como los estudiantes se sientan cómodos. Esto ayuda a que el aprendizaje sea dinámico y colaborativo.
 
 Aunque Canvas LMS no se puede personalizar tanto como otras plataformas como Moodle, es muy fácil de usar para los usuarios. La administración es simple. Por eso, es una buena opción para instituciones que buscan una plataforma de aprendizaje que funcione bien y se adapte a las necesidades de la educación. Esto incluye la educación presencial, virtual y híbrida. En resumen, Canvas LMS es una plataforma eficiente y adaptable.
 
----
+
 
 # 📚 Referencias bibliográficas
 
