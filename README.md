@@ -120,7 +120,7 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 ## Descripción
 
-> Escriba una breve descripción.
+> Es una plataforma de diseño gráfico en línea que permite a cualquier persona crear fácilmente diseños visuales profesionales sin necesidad de conocimientos avanzados en diseño. Su interfaz intuitiva de arrastrar y soltar, junto con una amplia biblioteca de plantillas, imágenes, fuentes y elementos gráficos, ha convertido a Canva en una herramienta esencial para empresas, emprendedores, educadores y creadores de contenido que buscan producir materiales visuales atractivos para redes sociales, presentaciones, anuncios, documentos y mucho más.
 
 ### Ventajas
 
