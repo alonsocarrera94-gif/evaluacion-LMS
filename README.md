@@ -30,13 +30,12 @@ En este trabajo se realizó un análisis comparativo de las plataformas de gesti
 
 > Escriba un máximo de cinco palabras clave en orden alfabético.
 
-- Blackboard
-- Canvas
 - Educación Virtual
-- LMS
 - Moodle
+- Chamilo
+- E-learning
+- Google Classroom
 
----
 
 # 📚 Introducción
 
