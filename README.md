@@ -66,8 +66,7 @@ Analizar y comparar las plataformas LMS Moodle, Blackboard y Canvas, considerand
 
 ## Justificación
 
-> Explique la importancia de conocer las diferentes plataformas educativas.
-
+> La transformación digital ha redefinido el panorama educativo, haciendo que las plataformas e-learning sean el eje central de cualquier estrategia pedagógica moderna. No se trata solo de tener un lugar donde subir archivos, sino de crear un ecosistema dinámico que fomente la interacción, el seguimiento del progreso y la personalización del aprendizaje. Al evaluar las plataformas elearning, las instituciones deben considerar no solo el costo, sino también la facilidad de uso, la capacidad de integración con otras herramientas, el soporte técnico y la escalabilidad para adaptarse a un crecimiento futuro.
 ---
 
 # 💻 Desarrollo del análisis comparativo
