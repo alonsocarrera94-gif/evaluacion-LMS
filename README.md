@@ -4,7 +4,7 @@
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz
 > **Estudiante:** Godoy Alonso, Rodriguez Iris, Caisamo Elineth, Martinez	Zulay
-> **Fecha:** 26/07 2026
+> **Fecha:** 26/07/2026
 
 ---
 
@@ -126,7 +126,7 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 - Accesibilidad: No requiere instalar software ni tener conocimientos técnicos avanzados.
 - Ahorro de tiempo: Las plantillas y herramientas automatizadas aceleran la creación de diseños profesionales.
 - Colaboración eficiente: Equipos y clientes pueden trabajar juntos en tiempo real, mejorando la productividad y la coherencia visual.
-- Actualizaciones constantes: Canva incorpora nuevas funciones y recursos de manera regular, manteniéndose a la vanguardia del diseño digital.
+- Actualizaciones constantes: Canva incorpora nuevas funciones y recursos de manera regular, manteniéndose a la vanguardia del diseño digital y la implementacion de la IA.
 - Versatilidad: Permite crear desde simples posts para redes sociales hasta presentaciones, videos, documentos y sitios web completos.
 - Optimización para marketing digital: Facilita la creación de contenido visual adaptado a diferentes plataformas y objetivos de marketing.
 
