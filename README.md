@@ -48,7 +48,17 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 ## Antecedentes
 
-> Explique brevemente qué son los LMS y su evolución.
+En los últimos años, la educación en línea ha crecido mucho y se ha establecido en todos los niveles educativos, tanto en situaciones formales como informales de aprendizaje. Hay varias razones que están impulsando este aumento, como el uso cada vez mayor de las tecnologías digitales en la vida diaria y en la formación, la flexibilidad de acceso, la individualización y el aprendizaje activo.
+
+La educación en línea, también llamada e-learning, surgió en los años noventa como una forma de educación a distancia que utilizaba Internet en la educación superior y la formación empresarial. Es importante destacar que hay una gran diferencia entre los modelos tradicionales de educación a distancia y el e-learning. La educación a distancia puede o no utilizar tecnología, pero lo más importante es que el estudiante pueda estudiar de manera independiente sin necesidad de que el docente intervenga constantemente.
+
+En el caso del e-learning, se comparte la idea de no necesidad de presencia física, pero se enfatiza el uso de Internet para acceder a los contenidos y actividades de la formación. Además, la interacción y la comunicación son fundamentales en este tipo de formación. La evolución del e-learning está ligada a los cambios tecnológicos y a los cambios en los espacios y tiempos para la formación y el aprendizaje.
+
+Al principio, el e-learning se basaba en el uso de ordenadores personales, pero ahora se apoya en sistemas distribuidos que han permitido la creación de redes de aprendizaje y el acceso a plataformas desde cualquier dispositivo. Por lo tanto, el uso de dispositivos móviles se ha integrado en los diseños educativos y las actividades de aprendizaje en línea.
+
+El objetivo principal de este artículo es analizar cómo ha evolucionado el e-learning y los desafíos que supone mejorar este tipo de educación. El artículo comienza describiendo los avances del e-learning desde el punto de vista pedagógico y tecnológico. Luego, se aborda la diversidad de espacios formativos y la combinación de espacios presenciales y virtuales.
+
+A continuación, se examinan los elementos que caracterizan la formación en línea y el papel del estudiante en estos entornos. Finalmente, se analiza cómo las tecnologías pueden mejorar la adaptación y personalización del e-learning.
 
 ---
 
