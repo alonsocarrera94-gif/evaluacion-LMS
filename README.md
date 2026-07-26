@@ -104,7 +104,7 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 
 ## Descripción
 
-> Es básicamente el centro de operaciones de muchas universidades y maestrías. Lejos de ser un simple sitio para descargar archivos, es el espacio digital donde se organiza toda la dinámica de una asignatura —tareas, exámenes, avisos y debates— adaptándose con naturalidad a clases presenciales, híbridas o a distancia.
+> 
 
 ### Ventajas
 
