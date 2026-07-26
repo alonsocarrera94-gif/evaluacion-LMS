@@ -22,14 +22,7 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 # 📄 Resumen
 
-> **Instrucciones:**
->
-> Escriba un resumen entre **150 y 250 palabras**.
->
-> Utilice **tiempo pasado**.
->
-> Explique de forma breve el propósito del análisis, la metodología utilizada y las principales conclusiones.
-
+En este trabajo se realizó un análisis comparativo de las plataformas de gestión del aprendizaje Moodle, Blackboard y Canvas con el propósito de identificar sus principales características, ventajas, desventajas y aplicaciones en entornos educativos. Para desarrollar el análisis se revisó información disponible en fuentes oficiales y documentación relacionada con cada plataforma, comparando aspectos como la facilidad de uso, las herramientas de evaluación, la comunicación, la personalización, los recursos multimedia y la administración de los cursos. Los resultados permitieron observar que las tres plataformas ofrecen soluciones completas para apoyar la enseñanza y el aprendizaje, aunque cada una presentó fortalezas particulares. Moodle destacó por su flexibilidad y alto nivel de personalización; Blackboard sobresalió por sus funciones avanzadas orientadas a instituciones educativas; y Canvas se distinguió por su interfaz moderna, facilidad de uso e integración con diversas herramientas externas. Finalmente, se concluyó que la selección de un LMS dependió de las necesidades de cada institución, de los recursos disponibles y de los objetivos educativos que se pretendieron alcanzar, ya que no existió una plataforma perfecta, sino alternativas con características que respondieron a diferentes contextos de enseñanza.
 ---
 
 # 🏷️ Palabras clave
