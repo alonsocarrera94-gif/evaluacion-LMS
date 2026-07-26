@@ -144,8 +144,8 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 | Facilidad de uso |La plataforma es flexible y se puede personalizar. Ofrece muchas herramientas educativas. |Es una plataforma completa que cuenta con funciones avanzadas, ideal para instituciones. |Es una plataforma moderna con herramientas fáciles de usar para gestionar cursos. |
 | Diseño de la interfaz |Interfaz funcional, pero requiere adaptación |Interfaz profesional, aunque más compleja |Interfaz sencilla, moderna e intuitiva |
 | Herramientas de evaluación |Gran variedad de actividades y recursos didácticos | Recursos avanzados para enseñanza y seguimiento |Recursos organizados y fáciles de utilizar |
-| Comunicación |Foros, mensajería y videoconferencia mediante integraciones | Mensajería, foros, anuncios y clases virtuales. | Mensajería, foros, calendario e integración con videoconferencias.|
-| Recursos multimedia | | | |
+| Comunicación |Foros, mensajería y videoconferencia mediante integraciones | Mensajería, foros, anuncios y clases virtuales | Mensajería, foros, calendario e integración con videoconferencias.|
+| Recursos multimedia |Cuestionarios, tareas, rúbricas y retroalimentación son herramientas importantes para evaluar el progreso |Las evaluaciones avanzadas nos permiten analizar el rendimiento de manera detallada | Las evaluaciones simples también son útiles, ya que cuentan con herramientas de calificación eficientes. |
 | Personalización | | | |
 | Aplicación móvil | | | |
 | Licencia | | | |
