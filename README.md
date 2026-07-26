@@ -74,23 +74,16 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 
 ### Ventajas
 
-
 -Gratuidad de licencia:** Sin costos directos por usuario.
-
 -Personalización absoluta:** Modificable a nivel de código.
-
 -Comunidad global:** Miles de plugins gratuitos disponibles.
-
 -Control de datos:** Alojamiento local (On-Premise) o en la nube.
 
 ### Desventajas
 
 -Curva de Aprendizaje Alta:** La interfaz nativa no es muy amigable.Se necesita entrenamiento extenso tanto para profesores como para alumnos.
-
 -Costos Ocultos:** Requiere servidores potentes, personal técnico especializado y mantenimiento continuo. En la práctica, no es "gratuito".
-
 -Experiencia de Usuario (UX):** El diseño visual predeterminado es anticuado. Canvas LMS ofrece una experiencia más moderna y limpia. 
-
 -Dificultades en Actualizaciones:** La actualización de versiones con plugins personalizados a menudo daña el sistema.
 
 # ⚫ Blackboard
@@ -98,7 +91,8 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 
 ## Descripción
 
-> Blackboard es una plataforma educativa que centraliza todas las actividades de una asignatura, como materiales, tareas, exámenes y comunicación entre docentes y estudiantes. Su principal ventaja es que organiza todo en un solo lugar e incluye herramientas de seguimiento y evaluación. Como desventaja, su interfaz puede ser poco intuitiva al inicio y, si no se aprovechan todas sus funciones, termina utilizándose solo como un repositorio de archivos."
+Blackboard es una plataforma educativa que centraliza todas las actividades de una asignatura, como materiales, tareas, exámenes y comunicación entre docentes y estudiantes. Su principal ventaja es que organiza todo en un solo lugar e incluye herramientas de seguimiento y evaluación. Como desventaja, su interfaz puede ser poco intuitiva al inicio y, si no se aprovechan todas sus funciones, termina utilizándose solo como un repositorio de archivos."
+
 ### Ventajas
 
 -Centraliza todas las actividades del curso en un solo lugar y facilita la organización, el seguimiento y la evaluación de los estudiantes.
@@ -112,7 +106,7 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 
 ## Descripción
 
-> Es una plataforma de diseño gráfico en línea que permite a cualquier persona crear fácilmente diseños visuales profesionales sin necesidad de conocimientos avanzados en diseño. Su interfaz intuitiva de arrastrar y soltar, junto con una amplia biblioteca de plantillas, imágenes, fuentes y elementos gráficos, ha convertido a Canva en una herramienta esencial para empresas, emprendedores, educadores y creadores de contenido que buscan producir materiales visuales atractivos para redes sociales, presentaciones, anuncios, documentos y mucho más.
+Es una plataforma de diseño gráfico en línea que permite a cualquier persona crear fácilmente diseños visuales profesionales sin necesidad de conocimientos avanzados en diseño. Su interfaz intuitiva de arrastrar y soltar, junto con una amplia biblioteca de plantillas, imágenes, fuentes y elementos gráficos, ha convertido a Canva en una herramienta esencial para empresas, emprendedores, educadores y creadores de contenido que buscan producir materiales visuales atractivos para redes sociales, presentaciones, anuncios, documentos y mucho más.
 
 ### Ventajas
 - Accesibilidad: No requiere instalar software ni tener conocimientos técnicos avanzados.
