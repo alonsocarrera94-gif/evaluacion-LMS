@@ -69,12 +69,12 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 ---
 
 # 🔵 Moodle
-
+<img width="857" height="571" alt="imagen" src="https://github.com/user-attachments/assets/060a6bd4-f703-4d57-9627-acd8f3c8cb5c" />
 ## Descripción
-
-> Escriba una breve descripción.
+Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés) de código abierto diseñado para proporcionar a educadores, administradores y estudiantes un entorno único, robusto y seguro donde crear experiencias de aprendizaje en líneNacido en 2002 de la mano de Martin Dougiamas, Moodle se ha convertido en una de las plataformas más utilizadas globalmente por instituciones educativas y empresas para impartir cursos online. Al ser de código abierto (licencia GPL), Moodle es gratuito de licenciar y altamente personalizable: cualquiera puede descargar su código, instalarlo en un servidor propio y adaptarlo a sus necesidades.
 
 ### Ventajas
+
 
 -
 
@@ -83,14 +83,13 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 -
 
 ### Desventajas
+-Curva de Aprendizaje Alta: La interfaz nativa no es muy amigable.Se necesita entrenamiento extenso tanto para profesores como para alumnos.
 
--
+-Costos Ocultos: Requiere servidores potentes, personal técnico especializado y mantenimiento continuo. En la práctica, no es "gratuito".
 
--
+-Experiencia de Usuario (UX): El diseño visual predeterminado es anticuado. Canvas LMS ofrece una experiencia más moderna y limpia. 
 
--
-
----
+-Dificultades en Actualizaciones: La actualización de versiones con plugins personalizados a menudo daña el sistema.
 
 # ⚫ Blackboard
 
