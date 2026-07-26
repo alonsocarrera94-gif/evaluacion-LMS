@@ -76,20 +76,23 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 ### Ventajas
 
 
--
+**-Gratuidad de licencia:** Sin costos directos por usuario.
 
--
+**-Personalización absoluta:** Modificable a nivel de código.
 
--
+**-Comunidad global:** Miles de plugins gratuitos disponibles.
+
+**-Control de datos:** Alojamiento local (On-Premise) o en la nube.
 
 ### Desventajas
--Curva de Aprendizaje Alta: La interfaz nativa no es muy amigable.Se necesita entrenamiento extenso tanto para profesores como para alumnos.
 
--Costos Ocultos: Requiere servidores potentes, personal técnico especializado y mantenimiento continuo. En la práctica, no es "gratuito".
+**-Curva de Aprendizaje Alta:** La interfaz nativa no es muy amigable.Se necesita entrenamiento extenso tanto para profesores como para alumnos.
 
--Experiencia de Usuario (UX): El diseño visual predeterminado es anticuado. Canvas LMS ofrece una experiencia más moderna y limpia. 
+**-Costos Ocultos:** Requiere servidores potentes, personal técnico especializado y mantenimiento continuo. En la práctica, no es "gratuito".
 
--Dificultades en Actualizaciones: La actualización de versiones con plugins personalizados a menudo daña el sistema.
+**-Experiencia de Usuario (UX):** El diseño visual predeterminado es anticuado. Canvas LMS ofrece una experiencia más moderna y limpia. 
+
+**-Dificultades en Actualizaciones:** La actualización de versiones con plugins personalizados a menudo daña el sistema.
 
 # ⚫ Blackboard
 
