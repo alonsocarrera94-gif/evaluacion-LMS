@@ -152,7 +152,7 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 | Aplicación móvil |Disponible para Android y para iOS | Es compatible con Android y con iOS| Disponibles para Android y para iOS.|
 | Licencia |Codigo abierto |Licencia Comercial |Licencia Comercial|
 | Costo |No cuesta nada en licencias. Los gastos se enfocan en el alojamiento, el mantenimiento, el soporte técnico y la personalización |Tiene un costo alto para la implementación y la suscripción institucional. El precio cambia según la cantidad de usuarios y los servicios que se elijan |El costo es medio o alto para las instituciones. Tiene una versión gratuita para los docentes, pero las funciones que usa la institución necesitan una suscripción. Ejmplo MEDUCA |
-| Público objetivo | | | |
+| Público objetivo | Está pensado para instituciones educativas, empresas y organizaciones que necesitan una plataforma que se adapte a sus necesidades específicas |Se enfoca principalmente en universidades y centros de formación superior que requieren una gestión académica avanzada| Es ideal para escuelas, colegios, universidades y otras organizaciones que buscan una plataforma actual, sencilla y rápida de usar|
 
 ---
 
