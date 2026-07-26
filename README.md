@@ -143,11 +143,11 @@ Es una plataforma de diseño gráfico en línea que permite a cualquier persona 
 
 > Compare las tres plataformas considerando aspectos como:
 
-- Funcionalidades
+- Funcionalidades: Moodle es muy flexible y se puede personalizar porque es de código abierto. Esto significa que podemos gestionar cursos, tareas y evaluaciones como queramos. También podemos añadir complementos para hacerlo aún más útil.Blackboard es otra opción que ofrece muchas herramientas para gestionar la academia, evaluar y analizar el aprendizaje. Sin embargo, para utilizar Blackboard, es necesario comprar una licencia. Canvas es una plataforma que integra herramientas modernas para administrar cursos, calificar y evaluar a los estudiantes. También permite conectar con aplicaciones externas, lo que es muy útil.
   
-- Experiencia del usuario
+- Experiencia del usuario: Moodle tiene una forma de trabajar que se puede cambiar para adaptarse a lo que necesitas. Al principio puede ser un poco confuso, pero después se puede usar para muchas cosas diferentes. Blackboard es una plataforma muy completa con muchas herramientas, pero para usarla bien, es necesario aprender un poco más sobre cómo funciona y Canvas es muy fácil de usar porque tiene un diseño simple y es fácil moverse por la plataforma. Esto hace que tanto los profesores como los estudiantes puedan usarla sin problemas.
   
-- Recursos pedagógicos
+- Recursos pedagógicos: Incluye foros, cuestionarios, actividades en equipo y herramientas que ayudan a aprender de forma interactiva. Permite hacer evaluaciones, comunicarse, usar contenido con imágenes y videos, y ver el progreso de los estudiantes. Tiene módulos bien estructurados, criterios para evaluar, comentarios y recursos que se enfocan en el aprendizaje.
   
 - Herramientas de comunicación: Las tres plataformas tienen herramientas para que los docentes y los estudiantes se comuniquen. Moodle ofrece foros, mensajería y chat. También se puede utilizar para videoconferencias con la ayuda de complementos. Blackboard tiene herramientas de comunicación incorporadas, como anuncios, mensajería y Blackboard Collaborate para clases virtuales. Canvas tiene foros, mensajería, calendario y notificaciones. Además, se puede integrar con Zoom, Google Meet y Microsoft Teams de manera sencilla. Esto ayuda a que la comunicación sea ágil y continua.
 
