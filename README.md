@@ -125,6 +125,7 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 ---
 
 # 🟢 Canvas
+<img width="554" height="554" alt="imagen" src="https://github.com/user-attachments/assets/0105d224-92dc-4e41-9327-fadd9c877df3" />
 
 ## Descripción
 
