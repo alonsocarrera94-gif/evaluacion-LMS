@@ -75,23 +75,23 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 ### Ventajas
 
 
-**-Gratuidad de licencia:** Sin costos directos por usuario.
+-Gratuidad de licencia:** Sin costos directos por usuario.
 
-**-Personalización absoluta:** Modificable a nivel de código.
+-Personalización absoluta:** Modificable a nivel de código.
 
-**-Comunidad global:** Miles de plugins gratuitos disponibles.
+-Comunidad global:** Miles de plugins gratuitos disponibles.
 
-**-Control de datos:** Alojamiento local (On-Premise) o en la nube.
+-Control de datos:** Alojamiento local (On-Premise) o en la nube.
 
 ### Desventajas
 
-**-Curva de Aprendizaje Alta:** La interfaz nativa no es muy amigable.Se necesita entrenamiento extenso tanto para profesores como para alumnos.
+-Curva de Aprendizaje Alta:** La interfaz nativa no es muy amigable.Se necesita entrenamiento extenso tanto para profesores como para alumnos.
 
-**-Costos Ocultos:** Requiere servidores potentes, personal técnico especializado y mantenimiento continuo. En la práctica, no es "gratuito".
+-Costos Ocultos:** Requiere servidores potentes, personal técnico especializado y mantenimiento continuo. En la práctica, no es "gratuito".
 
-**-Experiencia de Usuario (UX):** El diseño visual predeterminado es anticuado. Canvas LMS ofrece una experiencia más moderna y limpia. 
+-Experiencia de Usuario (UX):** El diseño visual predeterminado es anticuado. Canvas LMS ofrece una experiencia más moderna y limpia. 
 
-**-Dificultades en Actualizaciones:** La actualización de versiones con plugins personalizados a menudo daña el sistema.
+-Dificultades en Actualizaciones:** La actualización de versiones con plugins personalizados a menudo daña el sistema.
 
 # ⚫ Blackboard
 <img width="564" height="543" alt="imagen" src="https://github.com/user-attachments/assets/a1994fb2-27ae-4265-b799-5f9e1452a539" />
@@ -144,16 +144,17 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 | Costo |No cuesta nada en licencias. Los gastos se enfocan en el alojamiento, el mantenimiento, el soporte técnico y la personalización |Tiene un costo alto para la implementación y la suscripción institucional. El precio cambia según la cantidad de usuarios y los servicios que se elijan |El costo es medio o alto para las instituciones. Tiene una versión gratuita para los docentes, pero las funciones que usa la institución necesitan una suscripción. Ejemplo MEDUCA |
 | Público objetivo | Está pensado para instituciones educativas, empresas y organizaciones que necesitan una plataforma que se adapte a sus necesidades específicas |Se enfoca principalmente en universidades y centros de formación superior que requieren una gestión académica avanzada| Es ideal para escuelas, colegios, universidades y otras organizaciones que buscan una plataforma actual, sencilla y rápida de usar|
 
----
 
 # 💡 Análisis crítico
 
 > Compare las tres plataformas considerando aspectos como:
 
 - Funcionalidades
+  
 - Experiencia del usuario
+  
 - Recursos pedagógicos
-- 
+  
 - Herramientas de comunicación: Las tres plataformas tienen herramientas para que los docentes y los estudiantes se comuniquen. Moodle ofrece foros, mensajería y chat. También se puede utilizar para videoconferencias con la ayuda de complementos. Blackboard tiene herramientas de comunicación incorporadas, como anuncios, mensajería y Blackboard Collaborate para clases virtuales. Canvas tiene foros, mensajería, calendario y notificaciones. Además, se puede integrar con Zoom, Google Meet y Microsoft Teams de manera sencilla. Esto ayuda a que la comunicación sea ágil y continua.
 
 - Evaluación del aprendizaje: Las tres plataformas permiten crear tareas, cuestionarios y rúbricas para evaluar a los estudiantes. Moodle es muy flexible y ofrece muchas opciones para evaluar. Blackboard tiene herramientas avanzadas para seguir el rendimiento de los estudiantes, generar informes y detectar plagio. Canvas hace que la evaluación sea más sencilla con herramientas como SpeedGrader. Esto facilita la calificación y la retroalimentación oportuna.
@@ -166,19 +167,14 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
   Blackboard tiene herramientas avanzadas. Ofrece soporte profesional. Pero tiene costos altos. También es más complicado y Canvas destaca por ser fácil de usar. Se implementa rápido. Pero tiene menos opciones de personalización. Algunas funciones solo están disponibles en ciertos planes.
 
 
----
 
 # 🎯 Conclusiones
 
-Escriba tres conclusiones relevantes.
 
 ### Conclusión 1
-
 Moodle continúa siendo la plataforma que promueve la educación virtual de manera inclusiva. Su habilidad para adaptarse no tiene comparación. Sin embargo, en un contexto educativo que valora la experiencia del usuario y la efectividad operativa, Moodle está quedando atrás. Las instituciones deben optar entre tener un control completo con una carga técnica elevada.
 
 ### Conclusión 2
-
-
 Canvas LMS es una plataforma de aprendizaje moderna. Lo que la hace destacar es que es fácil de usar y tiene una interfaz intuitiva. También se puede implementar rápidamente. Una de las cosas buenas de Canvas LMS es que se puede integrar con herramientas externas. Esto permite crear un entorno donde tanto los docentes como los estudiantes se sientan cómodos. Esto ayuda a que el aprendizaje sea dinámico y colaborativo.
 
 Aunque Canvas LMS no se puede personalizar tanto como otras plataformas como Moodle, es muy fácil de usar para los usuarios. La administración es simple. Por eso, es una buena opción para instituciones que buscan una plataforma de aprendizaje que funcione bien y se adapte a las necesidades de la educación. Esto incluye la educación presencial, virtual y híbrida. En resumen, Canvas LMS es una plataforma eficiente y adaptable.
@@ -187,10 +183,6 @@ Aunque Canvas LMS no se puede personalizar tanto como otras plataformas como Moo
 La elección de un LMS es una decisión estratégica que impacta directamente la productividad, el cumplimiento normativo y el retorno de inversión de tu organización. En 2026, Moodle se posiciona como la opción más completa, flexible y rentable para la gran mayoría de empresas e instituciones en Latinoamérica, especialmente cuando se implementa con el respaldo de un Partner Premium certificado.
 
 # 📚 Referencias bibliográficas
-
-Utilice el formato **APA 7**.
-
-
 
 Silva Quiroz, J., Fernández Serrano, E., & Astudillo Cavada, A. (2016). Modelo interactivo en red para el aprendizaje: Hacia un proceso de aprendizaje online centrado en el estudiante. Revista de Educación a Distancia (RED), (49). https://www.redalyc.org/articulo.oa?id=331455826005
 
