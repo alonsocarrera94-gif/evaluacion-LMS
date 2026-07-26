@@ -145,7 +145,7 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 | Herramientas de evaluación |Gran variedad de actividades y recursos didácticos | Recursos avanzados para enseñanza y seguimiento |Recursos organizados y fáciles de utilizar |
 | Comunicación |Foros, mensajería y videoconferencia mediante integraciones | Mensajería, foros, anuncios y clases virtuales | Mensajería, foros, calendario e integración con videoconferencias.|
 | Recursos multimedia |Cuestionarios, tareas, rúbricas y retroalimentación son herramientas importantes para evaluar el progreso |Las evaluaciones avanzadas nos permiten analizar el rendimiento de manera detallada | Las evaluaciones simples también son útiles, ya que cuentan con herramientas de calificación eficientes. |
-| Personalización | | | |
+| Personalización |La personalización es muy alta. Se puede cambiar la apariencia del sistema, instalar plugins y adaptarlo a las necesidades de la institución. |La personalización es media. Se pueden configurar los cursos y algunas herramientas, también se pueden cambiar algunos aspectos visuales, pero no se tiene tanta libertad como en Moodle. |La personalización es media. Se puede personalizar los cursos y los temas, pero no se tienen tantas opciones para hacer cambios profundos como en Moodle. |
 | Aplicación móvil | | | |
 | Licencia | | | |
 | Costo | | | |
