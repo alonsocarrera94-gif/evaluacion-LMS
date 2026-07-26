@@ -58,10 +58,6 @@ Al principio, el e-learning se basaba en el uso de ordenadores personales, pero 
 
 El objetivo principal de este artículo es analizar cómo ha evolucionado el e-learning y los desafíos que supone mejorar este tipo de educación. El artículo comienza describiendo los avances del e-learning desde el punto de vista pedagógico y tecnológico. Luego, se aborda la diversidad de espacios formativos y la combinación de espacios presenciales y virtuales.
 
-A continuación, se examinan los elementos que caracterizan la formación en línea y el papel del estudiante en estos entornos. Finalmente, se analiza cómo las tecnologías pueden mejorar la adaptación y personalización del e-learning.
-
----
-
 ## Objetivo del análisis
 
 > Indique qué pretende demostrar con la comparación.
