@@ -149,9 +149,9 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 | Comunicación |Foros, mensajería y videoconferencia mediante integraciones | Mensajería, foros, anuncios y clases virtuales | Mensajería, foros, calendario e integración con videoconferencias.|
 | Recursos multimedia |Cuestionarios, tareas, rúbricas y retroalimentación son herramientas importantes para evaluar el progreso |Las evaluaciones avanzadas nos permiten analizar el rendimiento de manera detallada | Las evaluaciones simples también son útiles, ya que cuentan con herramientas de calificación eficientes. |
 | Personalización |La personalización es muy alta. Se puede cambiar la apariencia del sistema, instalar plugins y adaptarlo a las necesidades de la institución. |La personalización es media. Se pueden configurar los cursos y algunas herramientas, también se pueden cambiar algunos aspectos visuales, pero no se tiene tanta libertad como en Moodle. |La personalización es media. Se puede personalizar los cursos y los temas, pero no se tienen tantas opciones para hacer cambios profundos como en Moodle. |
-| Aplicación móvil | | | |
-| Licencia | | | |
-| Costo | | | |
+| Aplicación móvil |Disponible para Android y para iOS | Es compatible con Android y con iOS| Disponibles para Android y para iOS.|
+| Licencia |Codigo abierto |Licencia Comercial |Licencia Comercial|
+| Costo |No cuesta nada en licencias. Los gastos se enfocan en el alojamiento, el mantenimiento, el soporte técnico y la personalización |Tiene un costo alto para la implementación y la suscripción institucional. El precio cambia según la cantidad de usuarios y los servicios que se elijan |El costo es medio o alto para las instituciones. Tiene una versión gratuita para los docentes, pero las funciones que usa la institución necesitan una suscripción. Ejmplo MEDUCA |
 | Público objetivo | | | |
 
 ---
