@@ -231,7 +231,10 @@ https://usuario.github.io/evaluacion-LMS/
 
 # 👨‍💻 Autor
 
-**Nombre del estudiante**
+- Godoy Alonso
+- Rodríguez Iris
+- Caisamo Elineth
+- Martínez Zulay
 
 Universidad Tecnológica OTEIMA
 
