@@ -102,13 +102,11 @@ Moodle es un sistema de gestión de aprendizaje (LMS, por sus siglas en inglés)
 > Blackboard es una plataforma educativa que centraliza todas las actividades de una asignatura, como materiales, tareas, exámenes y comunicación entre docentes y estudiantes. Su principal ventaja es que organiza todo en un solo lugar e incluye herramientas de seguimiento y evaluación. Como desventaja, su interfaz puede ser poco intuitiva al inicio y, si no se aprovechan todas sus funciones, termina utilizándose solo como un repositorio de archivos."
 ### Ventajas
 
--Centraliza toda la vida académica en un solo lugar, evitando el caos de andar buscando información dispersa.
-
--Aporta además recursos muy potentes, como el seguimiento del rendimiento estudiantil, rúbricas integradas y controles antiplagio.
+-Centraliza todas las actividades del curso en un solo lugar y facilita la organización, el seguimiento y la evaluación de los estudiantes.
 
 ### Desventajas
 
-Su diseño suele pecar de rígido y poco intuitivo, lo que impone una curva de aprendizaje inicial. Si no se le saca provecho, la plataforma corre el riesgo de quedarse en un simple almacén digital de documentos.
+-Su diseño suele pecar de rígido y poco intuitivo, lo que impone una curva de aprendizaje inicial. Si no se le saca provecho, la plataforma corre el riesgo de quedarse en un simple almacén digital de documentos.
 
 # 🟢 Canvas
 <img width="554" height="554" alt="imagen" src="https://github.com/user-attachments/assets/0105d224-92dc-4e41-9327-fadd9c877df3" />
