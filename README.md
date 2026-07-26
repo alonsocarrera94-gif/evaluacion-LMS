@@ -191,11 +191,17 @@ La elección de un LMS es una decisión estratégica que impacta directamente la
 
 Utilice el formato **APA 7**.
 
-Ejemplo:
+
 
 Silva Quiroz, J., Fernández Serrano, E., & Astudillo Cavada, A. (2016). Modelo interactivo en red para el aprendizaje: Hacia un proceso de aprendizaje online centrado en el estudiante. Revista de Educación a Distancia (RED), (49). https://www.redalyc.org/articulo.oa?id=331455826005
 
-Autor, B. B. (2025). Título del artículo. https://xxxxx
+Instructure. (2026). Canvas LMS. https://www.instructure.com/canvas
+
+Moodle. (2026). Moodle: Open-source learning platform. https://moodle.org
+
+Anthology Inc. (2026). Blackboard Learn. https://www.blackboard.com
+
+UNESCO. (2023). Technology in education: A tool on whose terms? https://unesdoc.unesco.org
 ```
 
 ---
