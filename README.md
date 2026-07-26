@@ -142,8 +142,8 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 | Criterio | Moodle | Blackboard | Canvas |
 |----------|---------|------------|---------|
 | Facilidad de uso |La plataforma es flexible y se puede personalizar. Ofrece muchas herramientas educativas. |Es una plataforma completa que cuenta con funciones avanzadas, ideal para instituciones. |Es una plataforma moderna con herramientas fáciles de usar para gestionar cursos. |
-| Diseño de la interfaz | | | |
-| Herramientas de evaluación | | | |
+| Diseño de la interfaz |Interfaz funcional, pero requiere adaptación |Interfaz profesional, aunque más compleja |Interfaz sencilla, moderna e intuitiva |
+| Herramientas de evaluación |Gran variedad de actividades y recursos didácticos | Recursos avanzados para enseñanza y seguimiento |Recursos organizados y fáciles de utilizar |
 | Comunicación | | | |
 | Recursos multimedia | | | |
 | Personalización | | | |
