@@ -61,6 +61,7 @@ Analizar y comparar las plataformas LMS Moodle, Blackboard y Canvas, considerand
 ## Justificación
 
 La transformación digital ha cambiado por completo la forma en que se enseña y se aprende. Ahora, las plataformas e-learning son fundamentales en cualquier estrategia educativa actual. No se trata solo de subir archivos en un sitio web. Se trata de construir un entorno activo que promueva la comunicación, el control del avance y el aprendizaje a medida. Al elegir una plataforma e-learning, las instituciones no deben mirar solo el precio. También deben pensar en cómo es de fácil de usar, si se puede conectar con otras herramientas, si ofrecen buen apoyo técnico y si pueden crecer con el tiempo.
+
 ---
 
 # 💻 Desarrollo del análisis comparativo
