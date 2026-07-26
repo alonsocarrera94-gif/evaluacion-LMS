@@ -206,7 +206,7 @@ Autor, B. B. (2025). Título del artículo. https://xxxxx
 Pegue aquí el enlace del repositorio.
 
 ```
-https://github.com/usuario/evaluacion-LMS
+https://alonsocarrera94-gif.github.io/evaluacion-LMS/
 ```
 
 ---
