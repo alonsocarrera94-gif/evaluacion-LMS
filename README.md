@@ -123,22 +123,19 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 > Es una plataforma de diseño gráfico en línea que permite a cualquier persona crear fácilmente diseños visuales profesionales sin necesidad de conocimientos avanzados en diseño. Su interfaz intuitiva de arrastrar y soltar, junto con una amplia biblioteca de plantillas, imágenes, fuentes y elementos gráficos, ha convertido a Canva en una herramienta esencial para empresas, emprendedores, educadores y creadores de contenido que buscan producir materiales visuales atractivos para redes sociales, presentaciones, anuncios, documentos y mucho más.
 
 ### Ventajas
-
--
-
--
-
--
+- Accesibilidad: No requiere instalar software ni tener conocimientos técnicos avanzados.
+- Ahorro de tiempo: Las plantillas y herramientas automatizadas aceleran la creación de diseños profesionales.
+- Colaboración eficiente: Equipos y clientes pueden trabajar juntos en tiempo real, mejorando la productividad y la coherencia visual.
+- Actualizaciones constantes: Canva incorpora nuevas funciones y recursos de manera regular, manteniéndose a la vanguardia del diseño digital.
+- Versatilidad: Permite crear desde simples posts para redes sociales hasta presentaciones, videos, documentos y sitios web completos.
+- Optimización para marketing digital: Facilita la creación de contenido visual adaptado a diferentes plataformas y objetivos de marketing.
 
 ### Desventajas
 
--
-
--
-
--
-
----
+- Personalización avanzada limitada
+- Dependencia de Internet
+- Plantillas de pagos, es decir Muro de pago para funciones premium
+- Problemas de rendimiento en proyectos de gran envergadura
 
 # 📊 Cuadro comparativo
 
